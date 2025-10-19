@@ -115,11 +115,12 @@ particularly their applications in **healthcare diagnostics** and **agricultural
 | **Category** | **Skills** |
 |---------------|------------|
 | **Machine Learning** | Regression, Classification, Ensemble Learning |
-| **Deep Learning** | CNNs, Transfer Learning, Transformers, Grad-CAM |
+| **Deep Learning** | CNNs, Transfer Learning, Transformers |
 | **Data Science** | Feature Selection (LASSO, PCA, Chi-Square), SMOTE |
-| **AI Explainability** | SHAP, LIME |
+| **AI Explainability** | SHAP, LIME, Grad-CAM |
 | **Federated AI** | Privacy-preserving model training |
 | **Databases** | MySQL, SQLite |
+
 
 ---
 
