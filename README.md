@@ -101,6 +101,8 @@ I enjoy working on:
 [AI Research Paper Assistant](https://ai-research-paper-assistant-102.streamlit.app/)
 
 **Tech:** Python, Streamlit, Groq, Sentence Transformers, FAISS, PyPDF
+</details>
+
 
 <details>
 <summary><b>Personal Study Assistant RAG</b></summary>
