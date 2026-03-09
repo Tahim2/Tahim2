@@ -102,14 +102,15 @@ I enjoy working on:
 
 **Tech:** Python, Streamlit, Groq, Sentence Transformers, FAISS, PyPDF
 
-</details>
-
 <details>
 <summary><b>Personal Study Assistant RAG</b></summary>
 
 - AI-powered study assistant for PDF and TXT materials
 - Supports question answering, study note generation, confidence scores, and source-aware retrieval
 - Built using RAG and FAISS-based semantic search
+
+**GitHub:**  
+[Personal Study Assistant RAG](https://github.com/Tahim2/personal-study-assistant-rag)
 
 **Tech:** Python, Streamlit, Sentence Transformers, FAISS, Groq API, PyPDF
 
