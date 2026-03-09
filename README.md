@@ -38,51 +38,6 @@ I enjoy working on:
   Daffodil International University  
   **CGPA:** 3.81 / 4.00
 
-- **Undergraduate Thesis:**  
-  **ClinFusion-Net: Explainable GI Lesion Classification with Hybrid Feature Fusion on Kvasir Datasets**
-
----
-
-## Research
-
-<details>
-<summary><b>ClinFusion-Net (Undergraduate Thesis)</b></summary>
-
-- Hybrid CNN–Transformer model for multi-class GI disease classification
-- Designed with explainable AI components for interpretability
-- Includes a deployed Hugging Face inference demo
-
-**Live Demo:**  
-[ClinFusion-Net on Hugging Face](https://huggingface.co/spaces/Tahim2/ClinFusion_Net)
-
-</details>
-
-<details>
-<summary><b>RXV: Interpretable RF-Stacked CNNs for Brain Tumor MRI Classification</b></summary>
-
-- Published in **IEEE WIECON-ECE 2025**
-- Focused on interpretable brain tumor MRI classification using an RF-stacked CNN framework
-- Combines strong classification performance with explainability for medical imaging tasks
-
-</details>
-
-<details>
-<summary><b>A High-Accuracy Stacking Ensemble Model for Precise Thyroid Disease Detection with SHAP and LIME Explanations</b></summary>
-
-- Manuscript under review at **Informatics in Medicine Unlocked (Elsevier)**
-- Focused on thyroid disease detection using a stacking ensemble approach
-- Integrated **SHAP** and **LIME** for explainable predictions
-
-</details>
-
-<details>
-<summary><b>An Explainable Stacking Ensemble Framework for Early Heart Attack Risk Detection</b></summary>
-
-- Available as a **ResearchGate preprint**
-- Developed an explainable ensemble framework for early heart attack risk prediction
-- Emphasized predictive performance with model interpretability
-
-</details>
 
 ---
 
@@ -141,6 +96,51 @@ I enjoy working on:
 </details>
 
 ---
+
+
+## Research
+
+<details>
+<summary><b>ClinFusion-Net (Undergraduate Thesis)</b></summary>
+
+- Hybrid CNN–Transformer model for multi-class GI disease classification
+- Designed with explainable AI components for interpretability
+- Includes a deployed Hugging Face inference demo
+
+**Live Demo:**  
+[ClinFusion-Net on Hugging Face](https://huggingface.co/spaces/Tahim2/ClinFusion_Net)
+
+</details>
+
+<details>
+<summary><b>RXV: Interpretable RF-Stacked CNNs for Brain Tumor MRI Classification</b></summary>
+
+- Published in **IEEE WIECON-ECE 2025**
+- Focused on interpretable brain tumor MRI classification using an RF-stacked CNN framework
+- Combines strong classification performance with explainability for medical imaging tasks
+
+</details>
+
+<details>
+<summary><b>A High-Accuracy Stacking Ensemble Model for Precise Thyroid Disease Detection with SHAP and LIME Explanations</b></summary>
+
+- Manuscript under review at **Informatics in Medicine Unlocked (Elsevier)**
+- Focused on thyroid disease detection using a stacking ensemble approach
+- Integrated **SHAP** and **LIME** for explainable predictions
+
+</details>
+
+<details>
+<summary><b>An Explainable Stacking Ensemble Framework for Early Heart Attack Risk Detection</b></summary>
+
+- Available as a **ResearchGate preprint**
+- Developed an explainable ensemble framework for early heart attack risk prediction
+- Emphasized predictive performance with model interpretability
+
+</details>
+
+---
+
 
 ## Skills
 
