@@ -43,7 +43,21 @@ I enjoy working on:
 
 ## Featured Projects
 
+<details>
+<summary><b>AI Codebase Assistant</b></summary>
 
+- Grounded repository understanding assistant for developers
+- Explains files, identifies key modules, generates onboarding notes, and summarizes repositories with cited evidence
+- Built with hybrid retrieval, FAISS indexing, and Groq-based answer generation
+
+**GitHub:**  
+[AI Codebase Assistant](https://github.com/Tahim2/ai-codebase-assistant)
+
+**Live Demo:**  
+[AI Codebase Assistant Demo](https://ai-codebase-assistant.streamlit.app/)
+
+**Tech:** Python, Streamlit, Groq, Sentence Transformers, FAISS, GitPython
+</details>
 
 <details>
 <summary><b>AI Research Paper Assistant</b></summary>
